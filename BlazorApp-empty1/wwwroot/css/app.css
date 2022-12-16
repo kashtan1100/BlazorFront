@@ -96,3 +96,38 @@ h1:focus {
 .secondContent {
     margin-left:30px;
 }
+
+.secondPage {
+    background-image: url(backgroungFistPage.png);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    display: flex;
+}
+.dashboard {
+    color: white;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.courses {
+    padding-bottom: 50px;
+}
+
+.icon {
+    position: relative;
+    left: 15px;
+}
+
+.secondPageContentForDashborb {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 1200px;
+}
+
+.linked {
+    margin-right: 30px;
+}
+.linkedImg {
+    padding-bottom: 30px;
+}
