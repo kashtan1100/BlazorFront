@@ -35,7 +35,7 @@ h1:focus {
         content: "An error has occurred."
     }
 
-.header {
+.headLine {
     display: flex;
     background-color: red;
     height: 10vh;
@@ -52,4 +52,47 @@ h1:focus {
     margin-left: 1400px;
     padding-top: 25px;
     font-size: 30px;
+}
+
+.mainContent {
+    display: flex;
+    background-image: url(backgroungFistPage.png);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    align-items: center;
+}
+
+.firstContent{
+    width:555px;
+    height: 470px;
+    margin-top: 90px;
+    margin-left: 390px;
+}
+.fistText {
+    color: white;
+    font-size: 50px;
+}
+.secondText {
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-top: 40px;
+}
+
+.button {
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+    font-size:30px;
+    border-radius: 25px;
+}
+.secondContent {
+    margin-left:30px;
 }

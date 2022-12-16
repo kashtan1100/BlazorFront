@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WU0ec62Va382SRfANLdtB9cU9vDklPz1kjUviPcbagk=",
+  "Hash": "9adnvS4/NjGr9S+lXpyD2KR7IErz78FFIlrldf4+J60=",
   "Source": "BlazorApp-empty1",
   "BasePath": "/",
   "Mode": "Root",
@@ -6885,6 +6885,23 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
+      "Identity": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\backgroungFistPage.png",
+      "SourceId": "BlazorApp-empty1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/backgroungFistPage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\backgroungFistPage.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\gitar.png",
       "SourceId": "BlazorApp-empty1",
       "SourceType": "Discovered",
@@ -6900,6 +6917,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\gitar.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\secondContent.png",
+      "SourceId": "BlazorApp-empty1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/secondContent.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\secondContent.png"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\index.html",
