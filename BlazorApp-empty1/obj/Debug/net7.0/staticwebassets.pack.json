@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\backgroungFistPage.png",
+      "PackagePath": "staticwebassets\\css\\backgroungFistPage.png"
+    },
+    {
       "Id": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\gitar.png",
       "PackagePath": "staticwebassets\\css\\gitar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\css\\secondContent.png",
+      "PackagePath": "staticwebassets\\css\\secondContent.png"
     },
     {
       "Id": "C:\\Users\\user\\source\\repos\\BlazorApp-empty1\\BlazorApp-empty1\\wwwroot\\index.html",
