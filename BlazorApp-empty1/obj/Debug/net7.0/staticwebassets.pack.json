@@ -9,12 +9,56 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Arcticles.png",
+      "PackagePath": "staticwebassets\\css\\Arcticles.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\COURSES.png",
       "PackagePath": "staticwebassets\\css\\COURSES.png"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Coming Soon.png",
+      "PackagePath": "staticwebassets\\css\\Coming Soon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Contest.png",
+      "PackagePath": "staticwebassets\\css\\Contest.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\CoursesPage.png",
       "PackagePath": "staticwebassets\\css\\CoursesPage.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Events.png",
+      "PackagePath": "staticwebassets\\css\\Events.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Frame 16.png",
+      "PackagePath": "staticwebassets\\css\\Frame 16.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Jason Richardson.png",
+      "PackagePath": "staticwebassets\\css\\Jason Richardson.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Josh Travis.png",
+      "PackagePath": "staticwebassets\\css\\Josh Travis.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\One on One.png",
+      "PackagePath": "staticwebassets\\css\\One on One.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Settings.png",
+      "PackagePath": "staticwebassets\\css\\Settings.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Support.png",
+      "PackagePath": "staticwebassets\\css\\Support.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Will Swan.png",
+      "PackagePath": "staticwebassets\\css\\Will Swan.png"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\app.css",
