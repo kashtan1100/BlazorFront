@@ -24,8 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/CourseOption.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT3B0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/SecondPage.razor]
