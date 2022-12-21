@@ -26,7 +26,7 @@
 
   
 # Tech stack  
-**Blazoe WASM** - бесплатная веб-платформа с открытым исходным кодом, позволяющая разработчикам создавать веб-приложения с использованием C# и HTML.  
+**Blazor WASM** - бесплатная веб-платформа с открытым исходным кодом, позволяющая разработчикам создавать веб-приложения с использованием C# и HTML.  
   
 # ТЗ  
 https://docs.google.com/document/d/1cpvcReHwVnLRHm8lzq0YxwiF9VIF3efUoewEKSrqons/edit?usp=sharing  
