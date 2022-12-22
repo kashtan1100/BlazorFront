@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorApp-empty1
 build_property.RootNamespace = BlazorApp-empty1
-build_property.ProjectDir = C:\Users\user\source\repos\BlazorApp-empty1\BlazorApp-empty1\
+build_property.ProjectDir = C:\Users\Admin\source\repos\BlazorFront\BlazorApp-empty1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\source\repos\BlazorApp-empty1\BlazorApp-empty1
+build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\BlazorFront\BlazorApp-empty1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/App.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/MainLayout.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/CourseOption.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/Pages/CourseOption.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT3B0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/Index.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/Register.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/Pages/SecondPage.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/Pages/SecondPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/BlazorApp-empty1/BlazorApp-empty1/_Imports.razor]
+[C:/Users/Admin/source/repos/BlazorFront/BlazorApp-empty1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

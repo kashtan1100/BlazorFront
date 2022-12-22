@@ -71,10 +71,12 @@ h1:focus {
     margin-left: 390px;
 }
 .fistText {
+    font-family: Outfit, sans-serif;
     color: white;
     font-size: 50px;
 }
 .secondText {
+    font-family: Outfit, sans-serif;
     color: white;
     font-size: 25px;
     margin-top: 20px;
@@ -104,6 +106,7 @@ h1:focus {
     background-size: cover;
     background-color: black;
     display: flex;
+    font-family: Outfit, sans-serif;
 }
 .dashboard {
     color: white;
@@ -138,5 +141,6 @@ h1:focus {
     width: 600px;
 }
 .textCourse {
+    font-family:Outfit, sans-serif;
     color: white;
 }
