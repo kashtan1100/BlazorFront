@@ -126,10 +126,14 @@ h1:focus {
     margin-left: 200px;
     margin-top: 50px;
     width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .linked {
     margin-right: 30px;
+    text-decoration: none;
+    color: white;
 }
 .linkedImg {
     padding-bottom: 30px;
