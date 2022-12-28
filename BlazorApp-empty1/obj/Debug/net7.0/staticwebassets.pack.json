@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\CourseCard.html",
+      "PackagePath": "staticwebassets\\CourseCard.html"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Arcticles.png",
       "PackagePath": "staticwebassets\\css\\Arcticles.png"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\COURSES.png",
       "PackagePath": "staticwebassets\\css\\COURSES.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\CardPicture.png",
+      "PackagePath": "staticwebassets\\css\\CardPicture.png"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Coming Soon.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pSwBkIt42ofByc2OuLys1GBZ58MYIlGEet18NRSkJUc=",
+  "Hash": "kwSBfOKVfsuyrHkJO7eLK1cPkR1m6DtYJoTM4GPZjFI=",
   "Source": "BlazorApp-empty1",
   "BasePath": "/",
   "Mode": "Root",
@@ -6868,6 +6868,23 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\CourseCard.html",
+      "SourceId": "BlazorApp-empty1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "CourseCard.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CourseCard.html"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\app.css",
       "SourceId": "BlazorApp-empty1",
       "SourceType": "Discovered",
@@ -6917,6 +6934,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\backgroungFistPage.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\CardPicture.png",
+      "SourceId": "BlazorApp-empty1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/CardPicture.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CardPicture.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\source\\repos\\BlazorFront\\BlazorApp-empty1\\wwwroot\\css\\Coming Soon.png",
